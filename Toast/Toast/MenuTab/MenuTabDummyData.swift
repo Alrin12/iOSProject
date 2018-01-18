@@ -1,0 +1,16 @@
+//
+//  MenuTabDummyData.swift
+//  Toast
+//
+//  Created by 찬규 on 2018. 1. 18..
+//  Copyright © 2018년 CK. All rights reserved.
+//
+
+import Foundation
+
+class MenuTabDummyData {
+    
+    var icon: String?
+    var title: String?
+    
+}
